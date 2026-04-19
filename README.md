@@ -1,2 +1,5 @@
 # DS_PROJECT
-titanic-data-analysis
+#Name:Krishna Verma
+#RollNo.:1240258236
+#Batch:BCADS23
+
